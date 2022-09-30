@@ -408,7 +408,7 @@ if services==" 🫀Heart Failure Detection":
         st.subheader(" About")
         st.write("➡ Heart failure is a progressive condition in which the heart's muscle  gets injured from something like a heart attack or high blood pressure and gradually loses its ability to pump enough blood to supply the body's needs. ")
         st.write("➡ The heart can be affected in two ways, either become weak and unable to pump blood  or it become stiff and unable to fill with blood adequately. ")
-        st.info("➡  Heart failure  Symptoms include, Shortness of breath with activity or when lying down,Rapid or irregular heartbeat and many more.")
+        st.info("➡  Symptoms of Heart failure include, Shortness of breath with activity or when lying down,Rapid or irregular heartbeat and many more.")
     st.error('')
     st.subheader("👩🏻‍⚕️ Let's Predict ")
     st.info('Fill below information')
